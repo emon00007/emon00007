@@ -52,7 +52,7 @@
     <a href="https://x.com/safekuzzaman1" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
-    <a href="https://www.facebook.com/shaharul.islam.79274](https://www.facebook.com/safekuzzaman" target="blank">
+    <a href="https://www.facebook.com/safekuzzaman" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MdShaharulIslam" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/safekuzzaman1/" target="blank">
