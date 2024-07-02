@@ -1,3 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Welcome+To+My+Github+Profile;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Sheikh Safekuzzaman</h1>
 <h3 align="center">A passionate Frontend Web Developer from narail , Dhaka, Bangladesh</h3>
 <p align="center">I'm Experienced front-end Web Developer wth 6 months of expertise in dynamic web project development. Proficient in all stages of the development cycle, from initial concept to final deployment, with a focus on creating engaging and responsive user interfaces.</p>
