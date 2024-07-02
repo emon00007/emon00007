@@ -1,6 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Welcome+To+My+Github+Profile;Everyone+Thank's+For+Visit+My+Profile;Stay+with+me)](https://git.io/typing-svg)
 
 
+<div style="position: relative; width: 100%; text-align: center; color: white;">
+  <img src="https://github.com/emon00007/emon00007/blob/main/Welcome-My-Github-Profile.png" alt="sheikh safekuzzaman" style="width: 100%;">
+ 
+</div>
+
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 
 
 
